@@ -32,4 +32,4 @@ def publish_message(message: dict):
 
 
 if __name__ == "__main__":
-    publish_message({"title": "hello", "description": "test"})
+    publish_message({"title": "Hi Platform Solutions Team", "description": "test"})
